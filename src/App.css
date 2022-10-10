@@ -1,0 +1,45 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+form {
+  display: block;
+  margin: auto;
+  resize: none;
+  margin-top: 1rem;
+  border-radius: 15%;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 1em;
+}
+
+img {
+  border-radius: 10%;
+  width: 150px;
+}
+
+.info-box {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  display: inline-block;
+  justify-content: center;
+  position: absolute;
+  padding-top: 35px;
+  margin-left: 15px;
+}
+.next-page {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  text-align: center;
+}
