@@ -9,13 +9,13 @@ npm install
 Change directory to src
 
 ```bash
- cd .\src\
+cd .\src\
 ```
 
 Run app
 
 ```bash
- npm start
+npm start
 ```
 
 
